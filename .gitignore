@@ -1,0 +1,6 @@
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+bin/*
+gimp_sources/*
+scratch/*

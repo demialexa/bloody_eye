@@ -1,0 +1,42 @@
+[
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\glad.c.obj -c E:\\shrek\\w_desktop\\cg\\glad.c",
+  "file": "E:/shrek/w_desktop/cg/glad.c"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Image.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Image.cpp",
+  "file": "E:/shrek/w_desktop/cg/Image.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Player.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Player.cpp",
+  "file": "E:/shrek/w_desktop/cg/Player.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Logic.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Logic.cpp",
+  "file": "E:/shrek/w_desktop/cg/Logic.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Tile.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Tile.cpp",
+  "file": "E:/shrek/w_desktop/cg/Tile.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Room.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Room.cpp",
+  "file": "E:/shrek/w_desktop/cg/Room.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\Object.cpp.obj -c E:\\shrek\\w_desktop\\cg\\Object.cpp",
+  "file": "E:/shrek/w_desktop/cg/Object.cpp"
+},
+{
+  "directory": "E:/shrek/w_desktop/cg/build",
+  "command": "E:\\program_files\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\shrek\\w_desktop\\cg\\main.cpp",
+  "file": "E:/shrek/w_desktop/cg/main.cpp"
+}
+]
